@@ -16,6 +16,7 @@ _Steps to isntall on docker environment_
 
 ## steps:
     1. Clone the repo
-    2. Build image :- `sudo docker image build -t my-tree .`
+    2. Build image :- `sudo docker image build -t my-tree .` 
+       _or_ pull the docker image :- `docker pull shreyasxo/treeviz`
     3. Run container in exec mode :- `sudo docker container run --rm -it my-tree /bin/sh`
     4. Run command `python3 tree.py <absolute path>`
