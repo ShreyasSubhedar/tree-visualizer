@@ -2,7 +2,7 @@
 
 
 _Steps to install in local machine_
-## Pre-requisite:
+## Prerequisite:
     1. python3
 
 ## steps:
@@ -11,7 +11,7 @@ _Steps to install in local machine_
 
 _Steps to isntall on docker environment_
 
-##  Pre-requisite:
+## Prerequisite:
     1.Docker v20.10.7 +
 
 ## steps:
